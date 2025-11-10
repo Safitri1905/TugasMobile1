@@ -1,8 +1,3 @@
-Siap acaa! Ini **README.md** versi lengkap, rapi, dan sudah **menggunakan UI design milik acaa** (yang gambarnya acaa kirim: Splash – Login – Home – Detail Product).
-Strukturnya sama seperti contoh To-Do List yang acaa kasih tadi, tapi sudah aku sesuaikan untuk **aplikasi Sassy’s Coffee** yaa! ☕🤎
-
----
-
 # **Sassy’s Coffee App**
 
 ## **Deskripsi Proyek**
