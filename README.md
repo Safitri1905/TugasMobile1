@@ -185,3 +185,14 @@ Pengalaman pengguna dibuat fokus pada kenyamanan:
 * Informasi jelas pada setiap langkah pemesanan
 
 ---
+## **UTS - PEMROGRAMAN MOBILE 1**
+# **User Experience (UX) - SplashScreen**
+
+<img src="vid/splashscreen.gif" width="500">
+
+Splash Screen: Deteksi Location + Bendera + "Selamat Datang" sesuai lokasi negara masing-masing.
+
+- Indonesia
+- Japan
+- China
+
